@@ -1,1 +1,0 @@
-# hnanmal.github.io
