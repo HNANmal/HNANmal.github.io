@@ -4,6 +4,9 @@ title: "About"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
+author_profile: true
+sidebar:
+  nav: "main"
 ---
 
 ![icon](/assets/images/logo_hnan.png)
